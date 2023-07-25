@@ -1,5 +1,5 @@
 # Call Centre Dataset - Exploratory Data Analysis
-#### Call Center Data Analysis with Interactive Dashboard
+#### Call Center Data Analysis with Interactive Dashboard and Report
 
 <img src="dashboard.png" alt="dashboard" width="1000px"  />
 
@@ -37,6 +37,12 @@ The EDA involved the following key steps:
 - Call Center Performance: The performance of call center employees was assessed based on response times, call durations, and customer satisfaction scores.
 - Reason for Call Analysis: The reasons cited by customers for calling the call center were analyzed to identify the most common issues or concerns.
 - Interactive Dashboard: All the insights and visualizations generated during the analysis were combined into an interactive dashboard using Microsoft Excel. The dashboard allowed users to explore the data and gain real-time insights from different angles.
+
+## Report 
+
+<img src="report.png" alt="report" width="800px"  />
+
+The report of the EDA is included (CallCenterReport.docx).
 
 ## Repository Structure
 

@@ -49,6 +49,7 @@ The report of the EDA is included (CallCenterReport.docx).
 - rawdata: This contains the raw data Call Centre Dataset for October 2020 in a suitable format for use with Microsoft Excel.
 - CallCenterAnalysis: This is the Microsoft Excel workbook used for the Exploratory Data Analysis and within it is the interactive dashboard in the First Sheet.
 - CallCenterReport: This is the report explaining the trends gotten from the analysis and the recommended actions to be taken.
+- CallCenterPP: Powerpoint presentation of the CallCenterReport.
 
 ### To access and interact with the Call Centre Dataset and the interactive dashboard:
 
@@ -59,7 +60,7 @@ The report of the EDA is included (CallCenterReport.docx).
 
 ## Acknowledgments
 
-I extend my appreciation to the call center team, and kaggle user (mesumraza) for their efforts in data collection.
+I extend my appreciation to the call center team, and Kaggle user (mesumraza) for their efforts in data collection.
 
 If you have any questions, feedback, or suggestions, feel free to reach out to me. 
 
